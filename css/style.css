@@ -41,7 +41,7 @@ div{
 .introduction{
     border-radius: 15px;
     margin-top:15px;
-    word-spacing: 100%;
+    line-height: 2;
 }
 
 .red{
